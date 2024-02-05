@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "M6f5dv6wvu1ZbcQbb7dGtvrRmwRYqutl9ZyXExR55JI=",
+  "Source": "PortHub.Api.Tokens",
+  "BasePath": "_content/PortHub.Api.Tokens",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

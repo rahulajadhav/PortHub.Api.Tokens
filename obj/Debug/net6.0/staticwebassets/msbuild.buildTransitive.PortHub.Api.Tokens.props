@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\PortHub.Api.Tokens.props" />
+</Project>
